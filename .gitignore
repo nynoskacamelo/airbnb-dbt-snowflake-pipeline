@@ -8,3 +8,18 @@ wheels/
 
 # Virtual environments
 .venv
+
+# credentials
+profiles.yml
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# python environment
+.venv/
+venv/
+
+# VS Code settings
+.vscode/
